@@ -1,5 +1,7 @@
 # Marsy CurlConnector
-Here will be implementation of IConnector for Marsy.
+[![License](https://img.shields.io/github/license/AzuxDario/Marsy-CurlConnector.svg)](https://github.com/AzuxDario/Marsy-CurlConnector/blob/master/LICENSE)
+[![Stars](https://img.shields.io/github/stars/AzuxDario/Marsy-CurlConnector.svg)](https://github.com/AzuxDario/Marsy-CurlConnector/stargazers)
+[![Issues](https://img.shields.io/github/issues/AzuxDario/Marsy-CurlConnector.svg)](https://github.com/AzuxDario/Marsy-CurlConnector/issues)
 
 This repo contains implementation of `IConnector` for [Marsy](https://github.com/AzuxDario/Marsy). This allows you to get data with Marsy without writting your own implementation. This implementation uses [curlcpp](https://github.com/JosephP91/curlcpp), which is based on [curl](https://curl.haxx.se/).
  
